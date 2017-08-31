@@ -53,6 +53,5 @@ var todosList = {
     }
 }
  this.display();
-
   }
 };
